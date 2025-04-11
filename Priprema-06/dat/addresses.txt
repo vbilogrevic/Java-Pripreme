@@ -1,0 +1,50 @@
+1
+Ilica
+10
+Zagreb
+10000
+2
+Krešimirova
+5
+Split
+21000
+3
+Korzo
+15
+Rijeka
+51000
+4
+Ulica kralja Tomislava
+7
+Osijek
+31000
+5
+Trg bana Jelačića
+1
+Zagreb
+10000
+6
+Dubrovnik Stari Grad
+23
+Dubrovnik
+20000
+7
+Varaždinska
+12
+Varaždin
+42000
+8
+Marulićeva
+3
+Šibenik
+22000
+9
+Ante Starčevića
+8
+Zadar
+23000
+10
+Pula Arena
+1
+Pula
+52000
