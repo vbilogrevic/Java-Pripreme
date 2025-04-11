@@ -1,0 +1,50 @@
+1
+Paradajz
+1
+18.5
+Sjeckati na sitne komade
+2
+Mozzarella
+2
+280.0
+Narezati na tanke kriške
+3
+Bosiljak
+1
+2.5
+Koristiti svjež, opran
+4
+Pileće meso
+3
+239.0
+Ispeći na roštilju
+5
+Maslinovo ulje
+4
+884.0
+Dodati kao preljev
+6
+Tjestenina
+5
+157.0
+Kuhati u slanoj vodi
+7
+Parmezan
+2
+431.0
+Naribati na sitno
+8
+Češnjak
+1
+149.0
+Usitniti prije kuhanja
+9
+Šampinjoni
+1
+22.0
+Narezati na kriške i dinstati
+10
+Limunov sok
+6
+25.0
+Iscijediti prije dodavanja
