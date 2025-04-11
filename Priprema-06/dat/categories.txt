@@ -1,0 +1,18 @@
+1
+Povrće
+Svježe povrće za kuhanje i salate
+2
+Mliječni proizvodi
+Proizvodi poput sira, mlijeka i maslaca
+3
+Meso
+Različite vrste svježeg mesa
+4
+Ulja
+Biljna ulja za kuhanje i salate
+5
+Tjestenine
+Razne vrste tjestenina za kuhanje
+6
+Ostalo
+Sastojci koji ne spadaju u druge kategorije

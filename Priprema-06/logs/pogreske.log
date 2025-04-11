@@ -1,0 +1,125 @@
+2025-03-18 10:55:05,617 INFO [main] h.j.p.m.Main [Main.java:20] Aplikacija je pokrenuta
+2025-03-18 10:59:56,316 INFO [main] h.j.p.m.Main [Main.java:20] Aplikacija je pokrenuta
+2025-03-18 11:00:48,339 INFO [main] h.j.p.m.Main [Main.java:36] Kreirana nova kategorija:  asd
+2025-03-18 11:00:48,870 INFO [main] h.j.p.m.Main [Main.java:36] Kreirana nova kategorija:  asd
+2025-03-18 11:00:49,470 INFO [main] h.j.p.m.Main [Main.java:36] Kreirana nova kategorija:  asd
+2025-03-18 11:00:52,177 INFO [main] h.j.p.m.Main [Main.java:43] Kreirana nova namirnica: 1
+2025-03-18 11:00:53,427 INFO [main] h.j.p.m.Main [Main.java:43] Kreirana nova namirnica: 1
+2025-03-18 11:00:54,317 INFO [main] h.j.p.m.Main [Main.java:43] Kreirana nova namirnica: 1
+2025-03-18 11:00:55,177 INFO [main] h.j.p.m.Main [Main.java:43] Kreirana nova namirnica: 1
+2025-03-18 11:00:59,381 INFO [main] h.j.p.m.Main [Main.java:43] Kreirana nova namirnica: 1
+2025-03-18 11:01:06,221 INFO [main] h.j.p.m.Main [Main.java:50] Kreirano novo jelo: 1
+2025-03-18 11:01:09,607 ERROR [main] h.j.p.m.Main [DataInput.java:80] POGREŠKA! Kreirano jelo koje već postoji!
+2025-03-18 11:01:10,888 ERROR [main] h.j.p.m.Main [DataInput.java:80] POGREŠKA! Kreirano jelo koje već postoji!
+2025-03-18 11:01:11,378 ERROR [main] h.j.p.m.Main [DataInput.java:80] POGREŠKA! Kreirano jelo koje već postoji!
+2025-03-18 11:01:11,675 ERROR [main] h.j.p.m.Main [DataInput.java:80] POGREŠKA! Kreirano jelo koje već postoji!
+2025-03-18 20:13:56,182 INFO [main] h.j.p.m.Main [Main.java:23] Aplikacija je pokrenuta
+2025-03-18 20:14:38,251 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:14:38,954 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:14:39,715 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:14:42,648 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:14:45,322 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 2
+2025-03-18 20:14:47,292 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 3
+2025-03-18 20:14:49,341 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 4
+2025-03-18 20:14:51,067 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:15:03,224 INFO [main] h.j.p.m.Main [Main.java:53] Kreirano novo jelo: vegam
+2025-03-18 20:16:43,511 INFO [main] h.j.p.m.Main [Main.java:23] Aplikacija je pokrenuta
+2025-03-18 20:16:48,514 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:16:49,252 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:16:50,058 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:16:51,760 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:16:52,473 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:16:53,247 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:16:54,418 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:16:55,837 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:28:13,271 INFO [main] h.j.p.m.Main [Main.java:23] Aplikacija je pokrenuta
+2025-03-18 20:28:23,764 INFO [main] h.j.p.m.Main [Main.java:23] Aplikacija je pokrenuta
+2025-03-18 20:28:37,811 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:28:38,461 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:28:39,124 INFO [main] h.j.p.m.Main [Main.java:39] Kreirana nova kategorija:  asd
+2025-03-18 20:28:43,149 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 1
+2025-03-18 20:28:45,524 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 2
+2025-03-18 20:28:47,582 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 3
+2025-03-18 20:28:49,243 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 4
+2025-03-18 20:28:51,040 INFO [main] h.j.p.m.Main [Main.java:46] Kreirana nova namirnica: 5
+2025-03-18 20:28:58,589 INFO [main] h.j.p.m.Main [Main.java:53] Kreirano novo jelo: vegan
+2025-03-18 20:29:04,765 INFO [main] h.j.p.m.Main [Main.java:53] Kreirano novo jelo: vegetarian
+2025-03-18 20:29:08,994 INFO [main] h.j.p.m.Main [Main.java:53] Kreirano novo jelo: meat
+2025-03-18 20:29:13,883 ERROR [main] h.j.p.m.Main [DataInput.java:209] POGREŠKA! Unesena plaća koja je niža pd minimalne!
+2025-03-18 20:29:22,557 INFO [main] h.j.p.m.Main [Main.java:60] Kreiran novi zaposlenik: 1 1
+2025-03-18 20:29:25,321 ERROR [main] h.j.p.m.Main [DataInput.java:209] POGREŠKA! Unesena plaća koja je niža pd minimalne!
+2025-03-18 20:29:29,557 INFO [main] h.j.p.m.Main [Main.java:60] Kreiran novi zaposlenik: 2 2
+2025-03-18 20:29:35,904 INFO [main] h.j.p.m.Main [Main.java:60] Kreiran novi zaposlenik: 3 3
+2025-03-18 20:29:41,782 INFO [main] h.j.p.m.Main [Main.java:60] Kreiran novi zaposlenik: 22 22
+2025-03-18 20:29:47,478 INFO [main] h.j.p.m.Main [Main.java:60] Kreiran novi zaposlenik: 33 33
+2025-03-18 20:30:02,978 INFO [main] h.j.p.m.Main [Main.java:67] Kreiran novi restoran: prvi
+2025-03-18 20:30:14,480 INFO [main] h.j.p.m.Main [Main.java:67] Kreiran novi restoran: drugi
+2025-03-18 20:30:26,381 INFO [main] h.j.p.m.Main [Main.java:67] Kreiran novi restoran: treci
+2025-03-18 20:30:33,057 INFO [main] h.j.p.m.Main [Main.java:74] Kreirana nova narudžba iz restorana: prvi
+2025-03-18 20:30:37,713 INFO [main] h.j.p.m.Main [Main.java:74] Kreirana nova narudžba iz restorana: drugi
+2025-03-18 20:30:43,782 INFO [main] h.j.p.m.Main [Main.java:74] Kreirana nova narudžba iz restorana: treci
+2025-03-18 20:31:45,016 INFO [main] h.j.p.m.Main [Main.java:23] Aplikacija je pokrenuta
+2025-03-18 21:02:45,323 INFO [main] h.j.p.m.Main [Main.java:22] Aplikacija je pokrenuta
+2025-03-18 21:03:23,352 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 1 1
+2025-03-18 21:03:30,766 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 2 2
+2025-03-18 21:03:36,903 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 3 3
+2025-03-18 21:03:49,365 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 33 33
+2025-03-18 21:03:58,088 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 11 1
+2025-03-18 21:04:22,036 INFO [main] h.j.p.m.Main [Main.java:22] Aplikacija je pokrenuta
+2025-03-18 21:04:31,102 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 1 1
+2025-03-18 21:04:37,299 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 2 2
+2025-03-18 21:04:45,675 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 3 3
+2025-03-18 21:04:55,718 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 33 33
+2025-03-18 21:05:03,847 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 11 11
+2025-03-18 21:05:51,364 INFO [main] h.j.p.m.Main [Main.java:22] Aplikacija je pokrenuta
+2025-03-18 21:05:57,969 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 1 1
+2025-03-18 21:06:02,440 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 2 2
+2025-03-18 21:06:07,106 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 3 3
+2025-03-18 21:06:15,386 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 22 22
+2025-03-18 21:06:22,207 INFO [main] h.j.p.m.Main [Main.java:39] Kreiran novi zaposlenik: 11 11
+2025-03-18 21:12:51,980 INFO [main] h.j.p.m.Main [Main.java:23] Aplikacija je pokrenuta
+2025-03-18 21:14:04,763 ERROR [main] h.j.p.m.Main [DataInput.java:209] POGREŠKA! Unesena plaća koja je niža pd minimalne!
+2025-03-18 21:14:14,508 INFO [main] h.j.p.m.Main [Main.java:40] Kreiran novi zaposlenik: 1 1
+2025-03-18 21:14:20,623 INFO [main] h.j.p.m.Main [Main.java:40] Kreiran novi zaposlenik: 2 2
+2025-03-18 21:14:28,261 INFO [main] h.j.p.m.Main [Main.java:40] Kreiran novi zaposlenik: 3 3
+2025-03-18 21:14:38,821 INFO [main] h.j.p.m.Main [Main.java:40] Kreiran novi zaposlenik: 22 22
+2025-03-18 21:14:48,001 INFO [main] h.j.p.m.Main [Main.java:40] Kreiran novi zaposlenik: 11 11
+2025-04-10 22:33:26,581 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-10 22:35:33,151 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-10 22:36:04,839 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-10 22:36:18,430 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-10 22:36:23,957 INFO [main] h.j.p.m.Main [Main.java:45] Kreirana nova namirnica: asd
+2025-04-10 22:36:27,701 INFO [main] h.j.p.m.Main [Main.java:45] Kreirana nova namirnica: 1
+2025-04-10 23:09:26,424 INFO [main] h.j.p.m.Main [Main.java:26] Aplikacija je pokrenuta
+2025-04-10 23:10:44,228 INFO [main] h.j.p.m.Main [Main.java:26] Aplikacija je pokrenuta
+2025-04-10 23:12:11,123 INFO [main] h.j.p.m.Main [Main.java:26] Aplikacija je pokrenuta
+2025-04-10 23:12:27,139 INFO [main] h.j.p.m.Main [Main.java:26] Aplikacija je pokrenuta
+2025-04-10 23:12:55,228 INFO [main] h.j.p.m.Main [Main.java:26] Aplikacija je pokrenuta
+2025-04-10 23:14:11,882 INFO [main] h.j.p.m.Main [Main.java:26] Aplikacija je pokrenuta
+2025-04-10 23:25:02,977 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-10 23:26:23,733 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-10 23:26:40,106 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-10 23:27:33,868 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:11:09,412 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:12:19,976 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:13:59,426 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:16:13,735 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:19:25,475 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:22:29,510 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:24:09,662 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:24:45,842 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:26:38,343 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:26:59,682 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 08:27:50,839 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 10:43:29,155 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 10:44:15,967 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 10:48:10,005 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 10:55:26,531 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 10:56:02,545 INFO [main] h.j.p.m.Main [Main.java:27] Aplikacija je pokrenuta
+2025-04-11 11:20:52,094 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-11 11:22:00,059 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-11 11:23:44,825 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-11 11:28:21,839 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-11 11:29:43,255 INFO [main] h.j.p.m.Main [Main.java:25] Aplikacija je pokrenuta
+2025-04-11 11:35:09,063 INFO [main] h.j.p.m.Main [Main.java:24] Aplikacija je pokrenuta
+2025-04-11 11:40:29,633 INFO [main] h.j.p.m.Main [Main.java:24] Aplikacija je pokrenuta
